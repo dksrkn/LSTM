@@ -21,9 +21,4 @@
 https://www.youtube.com/watch?v=xsTpD_Od7ic
 <a href="https://www.youtube.com/watch?v=xsTpD_Od7ic" target="_blank">
     <img src="https://img.shields.io/badge/ -FF0000?style=social&logo=youtube"/>
-</a>
-
-<br/>
-<a href="https://www.youtube.com/watch?v=xsTpD_Od7ic" target="_blank">
-    <img src="https://img.youtube.com/vi/xsTpD_Od7ic/maxresdefault.jpg" width="750">
-</a>
+</a> 결과 데모 영상
