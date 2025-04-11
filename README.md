@@ -26,12 +26,8 @@
 
 ## 🎥 데모
 
-<a href="https://www.youtube.com/watch?v=xsTpD_Od7ic" target="_blank">
-    <img src="https://img.shields.io/badge/ -FF0000?style=social&logo=youtube"/>
-</a> 발표 & 시연 영상
-
 <br/>
 <a href="[https://www.youtube.com/watch?v=YIy2p0Vz084](https://www.youtube.com/watch?v=xsTpD_Od7ic)" target="_blank">
-    <img src="https://img.youtube.com/vi/YIy2p0Vz084/maxresdefault.jpg" width="750">
+    <img src="https://github.com/user-attachments/assets/3f86c46e-e6ab-4d47-bbfe-7f7d998704b4" width="750">
 </a>
 
