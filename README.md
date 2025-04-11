@@ -1,12 +1,12 @@
 # 🌿농작물 도매 가격 예측 프로젝트
 
-## 🌱프로젝트 개요
+## 🌱 프로젝트 개요
 #### 프로젝트 목적 : 머신러닝을 활용하여 농작물 도매 가격을 예측한다.
 #### 프로젝트 목표 : 품종 2종 각각 일주일 평균 일치율 95%
 
 <br/>
 
-## 👩‍💻프로젝트 진행 과정
+## 👩‍💻 프로젝트 진행 과정
 1. 알고리즘 선정
    - LSTM
 2. 데이터
@@ -17,7 +17,7 @@
 
 <br/>
 
-## ✅결과
+## ✅ 결과
 <image src="https://github.com/user-attachments/assets/05a92704-4bee-41a7-9513-0c358ebe009c" width="500">
 <br/>
 <image src="https://github.com/user-attachments/assets/3f86c46e-e6ab-4d47-bbfe-7f7d998704b4" width="500">   
@@ -26,6 +26,12 @@
 
 ## 🎥 데모
 
-<a href="" target="_blank">
+<a href="https://www.youtube.com/watch?v=xsTpD_Od7ic" target="_blank">
     <img src="https://img.shields.io/badge/ -FF0000?style=social&logo=youtube"/>
 </a> 발표 & 시연 영상
+
+<br/>
+<a href="[https://www.youtube.com/watch?v=YIy2p0Vz084](https://www.youtube.com/watch?v=xsTpD_Od7ic)" target="_blank">
+    <img src="https://img.youtube.com/vi/YIy2p0Vz084/maxresdefault.jpg" width="750">
+</a>
+
