@@ -14,7 +14,8 @@
 4. 모델 학습 및 테스트
 
 ## 결과
-
+![Image](https://github.com/user-attachments/assets/05a92704-4bee-41a7-9513-0c358ebe009c)
+![Image](https://github.com/user-attachments/assets/3f86c46e-e6ab-4d47-bbfe-7f7d998704b4)
 
 <br/>
 
