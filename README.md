@@ -20,4 +20,4 @@
 ## 🎥 결과 데모 영상
 <a href="https://www.youtube.com/watch?v=xsTpD_Od7ic" target="_blank">
     <img src="https://img.shields.io/badge/ -FF0000?style=social&logo=youtube"/>
-</a> 결과 데모 영상
+</a>
