@@ -18,4 +18,4 @@
 <br/>
 
 ## 🎥 결과 데모 영상
-[![Video Label](http://img.youtube.com/vi/xsTpD_Od7ic/maxresdefault.jpg)]("https://www.youtube.com/watch?v=xsTpD_Od7ic")
+[![Video Label](https://img.youtube.com/vi/xsTpD_Od7ic/maxresdefault.jpg)]("https://www.youtube.com/watch?v=xsTpD_Od7ic")
